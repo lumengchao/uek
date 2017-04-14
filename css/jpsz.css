@@ -1,0 +1,391 @@
+.dingbu{
+	width: 100%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+}
+.dingbu img{
+	width: 100%;
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	margin-top: 0.41rem;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1.11rem;
+}
+.hengzi span{
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	font-size: 0.2rem;
+	line-height: 0.67rem;
+}
+
+.hengzi{
+	color: black;
+	text-decoration: none;
+}
+.fenye1{
+	width: 100%;
+	height: 0.60rem;
+	overflow: hidden;
+	margin-top: 0.2rem;
+	background: white;
+	display: flex;
+	align-items:center;
+}
+.fenye1 .left{
+	float: left;
+	width: 0.62rem;
+	height: 0.33rem;
+	margin-left: 0.36rem;
+	background: white;
+	box-sizing: border-box;
+	border:0.01rem solid #E2E2E2;
+	border-radius:0.2rem;
+	position: relative;
+}
+.fenye1 .left .left1{
+	width: 0.56rem;
+	height: 0.27rem;
+    box-sizing: border-box;
+	border:0.01rem solid #988B8B;
+	border-radius:0.2rem;
+	position: absolute;
+	left: 0.02rem;
+	top:0.02rem;
+	text-align: center;
+	line-height: 0.20rem;
+}
+.fenye1 .left .left1 span{
+	font-size: 0.4rem;
+	color: #988B8B;
+	
+}
+.fenye1 .yuan{
+	float: left;
+	width: 0.33rem;
+	height: 0.33rem;
+	margin-left: 0.12rem;
+	background: white;
+	box-sizing: border-box;
+	border:0.01rem solid #E2E2E2;
+	border-radius:50%;
+	position: relative;
+	
+}
+.fenye1 .yuan .yuan1{
+	width: 0.27rem;
+	height: 0.27rem;
+    box-sizing: border-box;
+	border:0.01rem solid #988B8B;
+	border-radius:0.2rem;
+	position: absolute;
+	left: 0.02rem;
+	top:0.02rem;
+	line-height: 0.27rem;
+}
+.fenye1 .yuan .yuan1 span{
+	font-size: 0.15rem;
+	color: #988B8B;
+	margin-left: 0.08rem;
+}
+.fenye1 .yuan .sanshi span{
+	margin-left: 0.05rem;
+}
+.fenye1 .yuan4{
+	float: left;
+	width: 0.33rem;
+	height: 0.33rem;
+	margin-left: 0.12rem;
+	background: #00B4FF;
+	box-sizing: border-box;
+	box-shadow: 0rem 0.02rem 0.08rem #00B4FF;
+	border:0.01rem solid #E2E2E2;
+	border-radius:50%;
+	position: relative;
+
+	
+}
+.fenye1 .yuan4 .yuan44{
+	width: 0.27rem;
+	height: 0.27rem;
+    box-sizing: border-box;
+	border:0.01rem solid white;
+	border-radius:0.2rem;
+	position: absolute;
+	left: 0.02rem;
+	top:0.02rem;
+	line-height: 0.27rem;
+}
+.fenye1 .yuan4 .yuan44 span{
+	font-size: 0.15rem;
+	color: white;
+	margin-left: 0.08rem;
+}
+.fenye1 .xian{
+	width: 0.3rem;
+	height: 0.2rem;
+	float: left;
+	margin-left: 0.12rem;
+	text-align: center;
+	line-height: 0.25rem;
+}
+.fenye1 .xian span{
+	font-size: 0.2rem;
+	color: #988B8B;
+}
+
+.fenye1 .leftt{
+	float: left;
+	width: 0.62rem;
+	height: 0.33rem;
+	margin-left: 0.12rem;
+	background: white;
+	box-sizing: border-box;
+	border:0.01rem solid #E2E2E2;
+	border-radius:0.2rem;
+	position: relative;
+}
+.fenye1 .leftt .left1{
+	width: 0.56rem;
+	height: 0.27rem;
+    box-sizing: border-box;
+	border:0.01rem solid #988B8B;
+	border-radius:0.2rem;
+	position: absolute;
+	left: 0.02rem;
+	top:0.02rem;
+	line-height: 0.20rem;
+	text-align: center;
+}
+.fenye1 .leftt .left1 span{
+	font-size: 0.4rem;
+	color: #988B8B;
+	
+}
+.fenye1 .zi{
+	width: 0.48rem;
+	height: 0.33rem;
+	float: left;
+	margin-left: 0.55rem;
+	text-align: center;
+	line-height: 0.33rem;
+}
+.fenye1 .zi span{
+	font-size: 0.15rem;
+	color: #988B8B;
+}
+.fenye1 .leftf{
+	float: left;
+	width: 0.62rem;
+	height: 0.33rem;
+	margin-left: 0.07rem;
+	background: #FAFAFA;
+	box-sizing: border-box;
+	border:0.01rem solid #E2E2E2;
+	border-radius:0.2rem;
+	position: relative;
+}
+.fenye1 .leftf .left1{
+	width: 0.56rem;
+	height: 0.27rem;
+    box-sizing: border-box;
+	border:0.01rem solid #E2E2E2;
+	border-radius:0.2rem;
+	position: absolute;
+	left: 0.02rem;
+	top:0.02rem;
+}
+.fenye1 .zi1{
+	width: 0.2rem;
+	height: 0.33rem;
+	float: left;
+	margin-left: 0.08rem;
+	text-align: center;
+	line-height: 0.33rem;
+}
+.fenye1 .zi1 span{
+	font-size: 0.15rem;
+	color: #988B8B;
+}
+.fenye1 .yuan .sanshi1 span{
+	font-size: 0.12rem;
+	margin-left: 0.04rem;
+}
+
+
+.dibu{
+	width: 100%;
+	hanging-punctuation: auto;
+	text-align: center;
+	margin-top: 0.2rem;
+	margin-bottom: 0.2rem;
+}
+.dibu p{
+	font-size: 0.2rem;
+	color: #8F8F91;
+}
+
+
+.lou{
+	width: 95%;
+	height: 0.8rem;
+	border: 1px solid #01B5FF;
+	border-radius: 0.1rem;
+	margin:0rem auto;
+	background: white;
+}
+.lou .lou1{
+	width: 33.33%;
+	height: 100%;
+	background: #01B5FF;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+	float: left;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou .lou1 p{
+	font-size: 0.22rem;
+	color: white;
+}
+.sanjiao{
+	margin-left:1.25rem;
+	width: 0.01rem;
+	border-top:0.12rem solid #01B5FF;
+	border-left: 0.08rem solid rgba(0,0,0,0);
+	border-right:0.08rem solid rgba(0,0,0,0);
+	border-bottom: 0rem;
+}
+
+
+.lou .lou2{
+	width: 33.33%;
+	height: 100%;
+	background: white;
+	float: left;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou .lou2 p{
+	font-size: 0.22rem;
+	color: black;
+}
+.lou .lou3{
+	width: 33.33%;
+	height: 100%;
+	background: white;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+	float: left;
+	text-align: center;
+	line-height: 0.8rem;
+}
+.lou .lou3 p{
+	font-size: 0.22rem;
+	color: black;
+}
+
+.lou5{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.lou5 ul{
+	width: 95%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+.lou5 ul>li{
+	width: 100%;
+	height: 2.70rem;
+	background: white;
+    margin-top: 0.1rem;
+	
+}
+.lou5 ul>li img{
+	width: 2.3rem;
+	height: 2.3rem;
+	float: left;
+	margin-left: 0.2rem;
+	margin-top:0.2rem;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+}
+.lou5 .zi{
+	width:60%;
+	height: 1.17rem;
+	float: right;
+	box-sizing: border-box;
+	padding-top: 0.3rem;
+	padding-bottom: 0.3rem;
+}
+.lou5 .zi h2{
+	width: 1.5rem;
+	font-size: 0.25rem;
+	box-sizing: border-box;
+	border-bottom: 0.01rem dashed #ccc;
+}
+.lou5 .zi h2 span{
+	font-size: 0.1rem;
+	color: #939393;
+}
+.lou5 .zi h3{
+	box-sizing: border-box;
+    padding-top: 0.1rem;
+	font-size: 0.25rem;
+	color: #01B5FF;
+}
+.lou5 .zi h4{
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	font-size: 0.2rem;
+	color: #6F6F6F;
+}
+.lou5 .zi a{
+	font-size: 0.2rem;
+	color: #FFA637;
+	float: right;
+	margin-top:-1.7rem;
+	margin-right: 0.2rem;
+} 

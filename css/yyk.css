@@ -1,0 +1,322 @@
+*{
+	text-decoration: none;
+}
+.dingbu{
+	width: 100%;
+	height: 0.41rem;
+	background: #37BBFF;
+	position: fixed;
+}
+.dingbu img{
+	width: 100%;
+	height: auto;
+}
+
+
+.logo{
+	width: 100%;
+	height: 0.7rem;
+	background: #007BE3;
+	position: fixed;
+	margin-top: 0.41rem;
+}
+.logo .left{
+	width:48%;
+	height: 0.5rem;
+    float: left;
+	
+}
+.logo .left img{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: block;
+	margin-top: 0.05rem;
+	margin-left: 2.8rem;
+
+}
+.logo .right{
+	width: 52%;
+	height: 0.5rem;
+	float: left;	
+	line-height: 0.7rem;
+}
+.logo .right h3{
+	font-size: 0.27rem;
+	color: white;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.banner img{
+	width: 100%;
+	height:auto;
+	margin-top: 1.11rem;
+}
+
+
+
+.lou4{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.lou4 .l1{
+	width: 25%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 0.15rem;	
+	padding-top: 0.2rem;
+}
+
+.lou4 .l1 .l11{
+	width: 1.58rem;
+	height: 1.58rem;
+	float: left;
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+	background: white;
+	text-align: center;
+	padding-top: 0.2rem;
+}
+.lou4 .l1 .l11 img{
+	width: 1.07rem;
+	height: 1.07rem;
+}
+.lou4 .l1 p{
+	display: inline-block;
+	
+	
+    margin-top:0.2rem;
+}
+.lou4 .l1 p a{
+	color: black;
+    font-size: 0.2rem;
+}
+
+.fw{
+	width: 100%;
+	height: 0.653rem;
+	background: white;
+	margin-top: 0.2rem;
+}
+.fw p{
+	font-size: 0.2rem;
+	color: blue;
+	text-align: center;
+	line-height:0.653rem;
+}
+
+.lou2{
+	width: 100%;
+	
+	overflow: hidden;
+    background: white;
+	box-sizing: border-box;
+	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+.lou2 ul{
+	width: 100%;
+	height: 2.223rem;
+	overflow: hidden;
+}
+.lou2 ul>li{
+	width: 50%;
+	height: 2.223rem;
+	float: left;
+	box-sizing: border-box;
+	border-right: 0.01rem solid #ccc;
+
+	
+}
+.lou2 ul>li:nth-child(2){
+	border-right: 0rem;
+}
+.lou2 ul>li img{
+	float: right;
+	width: 1.53rem;
+	height: 1.38rem;
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	padding-right: 0.2rem;
+	padding-top:0.25rem;
+	
+}
+.lou2 ul>li h2{
+	padding-left: 0.2rem;
+	padding-top:0.25rem;
+}
+.lou2 ul>li h2 a{
+	font-size: 0.25rem;
+	box-sizing: border-box;
+	
+	color: black;
+}
+.lou2 ul>li h3{
+
+	padding-left: 0.2rem;
+	padding-top:0.1rem;
+}
+.lou2 ul>li h3 a{
+	font-size: 0.20rem;
+	color: #999999;
+	
+}
+
+
+.lou3{
+	width: 100%;
+	height: 1.41rem;
+	background: white;
+	margin-bottom: 0.5rem;
+}
+.lou3 ul{
+	width: 100%;
+	height: 1.41rem;
+}
+.lou3 ul>li{
+	width: 33.33%;
+	height: 1.41rem;
+	float: left;
+	box-sizing: border-box;
+	border-right: 0.01rem solid #ccc;
+}
+.lou3 ul>li:last-child{
+	border-right:0rem;
+}
+.lou3 ul>li img{
+	width: 0.6144rem;
+	height: 0.6145rem;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 0.2rem;
+	padding-top:0.3rem;
+}
+
+.lou3 ul .mfst h2{
+    margin-top: 0.3rem;
+    margin-left: 0.75rem;
+    color: black;
+    box-sizing: border-box;
+    font-size: 0.23rem;
+} 
+.lou3 ul .mfst h3{
+    margin-left: 0.75rem;
+    color: #C2C2C2;
+    box-sizing: border-box;
+    font-size: 0.18rem;
+}
+.lou3 ul .mfst-1 h2{
+    margin-top: 0.3rem;
+    margin-left: 0.75rem;
+    color: black;
+    box-sizing: border-box;
+    font-size: 0.23rem;
+} 
+.lou3 ul .mfst-1 h3{
+    margin-left: 0.75rem;
+    color: #C2C2C2;
+    box-sizing: border-box;
+    font-size: 0.18rem;
+}
+.lou3 ul .mfst-2 h2{
+    margin-top: 0.3rem;
+    margin-left: 0.75rem;
+    color: black;
+    box-sizing: border-box;
+    font-size: 0.23rem;
+} 
+.lou3 ul .mfst-2 h3{
+    margin-left: 0.75rem;
+    color: #C2C2C2;
+    box-sizing: border-box;
+    font-size: 0.18rem;
+}
+
+.dibu{
+	width: 100%;
+	height: 0.8191rem;
+	background: #E8E3E3;
+	position: fixed;
+	bottom:0rem;
+}
+.dibu .left{
+	float: left;
+	width: 25%;
+	height: 0.8191rem;
+	line-height: 0.8191rem;
+	text-align: center;
+}
+.dibu .left img{
+	width: 0.68rem;
+	height: 0.60rem;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 0.3rem;
+	padding-top: 0.20rem;
+	
+}
+.dibu .left span{
+	float: right;
+	font-size: 0.2rem;
+	box-sizing: border-box;
+	padding-right: 0.2rem;
+	
+	
+}
+.dibu .right{
+	float: right;
+	width: 25%;
+	height: 0.8191rem;
+	line-height: 0.8191rem;
+	text-align: center;
+	margin-right: 0.15rem;
+}
+.dibu .right img{
+	width: 0.68rem;
+	height: 0.60rem;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 0.3rem;
+	padding-top: 0.20rem;
+	
+}
+.dibu .zhong{
+	float: left;
+	width: 40%;
+	background: #FF7E00;
+	height: 0.8191rem;
+	margin-left: 0.35rem;
+	
+	box-sizing: border-box;
+	border-radius: 0.1rem;
+	line-height: 0.8191rem;
+	
+}
+.dibu .zhong img{
+	width: 0.32rem;
+	height: 0.32rem;
+	margin-top: 0.25rem;
+	margin-left: 0.75rem;
+}
+.dibu .zhong span{
+	font-size: 0.3rem;
+	color: white;
+	float: right;
+	box-sizing: border-box;
+    padding-right:0.5rem;
+}
+.dibu .right span{
+	float: right;
+	font-size: 0.2rem;
+	box-sizing: border-box;
+	padding-right: 0.35rem;
+	
+	
+}
